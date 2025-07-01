@@ -62,9 +62,6 @@ db.end();
 }
 main();
 
-  }
-}
-
 // Função para consultar previsão do tempo
 async function consultarPrevisao() {
   const cidade = prompt('Digite o nome da cidade: ');
